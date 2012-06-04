@@ -9,3 +9,4 @@ So far, this is a very simple implementation. There are no settings controls in 
 To do
 -----
 Add some control panel settings for finer control of the plug-in options.
+Maybe integrate with EE file manager... if possible.
